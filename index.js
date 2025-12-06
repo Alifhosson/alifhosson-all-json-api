@@ -10,7 +10,7 @@ app.use(cors()); // ✅ সব জায়গা থেকে অ্যাক্�
 
 // Root route
 app.get("/", (req, res) => {
-  res.send("🌐 JSON API is running publicly!");
+  res.send("🌐 বুকা চুদা Api দেখতে আসা চুদান লাগে কেন নিজে বানিয়েনে শালা mc");
 });
 
 // Serve JSON from /data folder
